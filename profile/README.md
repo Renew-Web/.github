@@ -1,6 +1,4 @@
-# Make web greater again
-
-> Reclaiming the open web — one page at a time.
+# Reclaiming the open web: Make web greater again
 
 The web is changing. Search results are flooded with AI-generated noise. Original voices are getting harder to find. And as large language models scrape and regurgitate the work of creators, more of them are choosing to go dark — pulling their content behind walls, locking it away, or simply stopping.
 
@@ -11,6 +9,11 @@ We think that's a loss worth fighting.
 ## What we do
 
 We build web frontends that make creators' work easier to find. That's it. Every repository here is a presentation layer; **all original content and intellectual property belongs to its respective creator.** We are stewards, not owners.
+
+Now, we offer those pagse return back to internet:
+
+- https://renew-web.github.io/anitama-backup/
+- https://renew-web.github.io/Learn-Vim_zh_cn/
 
 
 ## Our commitments
