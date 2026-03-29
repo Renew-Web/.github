@@ -4,7 +4,7 @@ The web is changing. Search results are flooded with AI-generated noise. Origina
 
 We think that's a loss worth fighting.
 
-**renew-web** is a collective effort to surface the real, human-made corners of the internet. We create lightweight web showcases — clean, searchable, discoverable — for creators who care about openness but don't want to spend their days wrestling with SEO.
+**Renew Web** is a collective effort to surface the real, human-made corners of the internet. We create lightweight web showcases — clean, searchable, discoverable — for creators who care about openness but don't want to spend their days wrestling with SEO.
 
 ## What we do
 
