@@ -17,7 +17,7 @@ Now, we offer those pagse return back to internet:
 |--------------|-----------|
 | Anitama | https://renew-web.github.io/anitama-backup/ |
 | Learn Vim 中文版 | https://renew-web.github.io/Learn-Vim_zh_cn/ |
-| 好奇心日报 | https://github.com/Renew-Web/qdaily-equb |
+| 好奇心日报 | https://renew-web.github.io/qdaily-equb/ |
 | 自学是门艺术 | https://renew-web.github.io/the-craft-of-selfteaching/ |
 
 
