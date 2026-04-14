@@ -15,6 +15,7 @@ Now, we offer those pagse return back to internet:
 
 | WebSite Name | Renew Url |
 |--------------|-----------|
+| Home | https://renew-web.github.io/ |
 | Anitama | https://renew-web.github.io/anitama-backup/ |
 | Learn Vim 中文版 | https://renew-web.github.io/Learn-Vim_zh_cn/ |
 | 好奇心日报 | https://renew-web.github.io/qdaily-equb/ |
