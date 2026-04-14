@@ -1,0 +1,28 @@
+name: Sync README to renew-web.github.io
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "profile/README.md"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Sync README to renew-web.github.io
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.REPO_RENEW_WEB_GITHUB_IO_TOEKN }}
+        with:
+          source_file: "profile/README.md"
+          destination_repo: "renew-web/renew-web.github.io"
+          destination_folder: "."
+          destination_branch: "main"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          user_name: "github-actions[bot]"
+          commit_message: "chore: sync README from .github profile"
