@@ -12,8 +12,14 @@ We build web frontends that make creators' work easier to find. That's it. Every
 
 Now, we offer those pagse return back to internet:
 
-- https://renew-web.github.io/anitama-backup/
-- https://renew-web.github.io/Learn-Vim_zh_cn/
+
+| WebSite Name | Renew Url |
+|--------------|-----------|
+| Anitama | https://renew-web.github.io/anitama-backup/ |
+| Learn Vim 中文版 | https://renew-web.github.io/Learn-Vim_zh_cn/ |
+| 好奇心日报 | https://renew-web.github.io/qdaily-equb/ |
+| 自学是门艺术 | https://renew-web.github.io/the-craft-of-selfteaching/ |
+| 把时间当作朋友 | https://renew-web.github.io/time-as-a-friend/ |
 
 
 ## Our commitments
